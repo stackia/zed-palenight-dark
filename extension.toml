@@ -1,0 +1,23 @@
+id = "palenight-dark"
+name = "Palenight Dark"
+version = "0.3.0"
+schema_version = 1
+description = "Palenight Dark theme for Zed"
+repository = "https://github.com/stackia/zed-palenight-dark"
+authors = ["Stackie Jia <jsq2627@gmail.com>"]
+themes = ["themes/palenight-dark.json"]
+icon_themes = []
+languages = []
+capabilities = []
+
+[lib]
+
+[grammars]
+
+[language_servers]
+
+[context_servers]
+
+[agent_servers]
+
+[slash_commands]
