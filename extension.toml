@@ -1,6 +1,6 @@
 id = "palenight-dark-theme"
 name = "Palenight Dark"
-version = "0.3.0"
+version = "0.4.0"
 schema_version = 1
 description = "Deep blue-grey backgrounds paired with vivid, well-balanced syntax colors that are easy on the eyes during long coding sessions."
 repository = "https://github.com/stackia/zed-palenight-dark"
